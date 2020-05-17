@@ -19,5 +19,5 @@ git clone https://github.com/elvinsl/magicave.git
 ## Usage
 
 ```bash
-python3 magicave --help
+python3 magicave.py --help
 ```
